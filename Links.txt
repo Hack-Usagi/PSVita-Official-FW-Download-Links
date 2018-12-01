@@ -5,6 +5,6 @@ xmllink:http://fjp01.psp2.update.playstation.net/update/psp2/list/jp/psp2-update
 3.61:http://djp01.psp2.update.playstation.net/update/psp2/image/2016_0804/rel_99d9ab3e57a677b38e42cc6409b95e3b/PSP2UPDAT.PUP
 3.63:http://djp01.psp2.update.playstation.net/update/psp2/image/2016_1024/rel_43fa84109f0ef773d7c0553387b55b50/PSP2UPDAT.PUP
 3.65:http://djp01.psp2.update.playstation.net/update/psp2/image/2017_0317/rel_0a0f2a9ae58968ac5d1d2127049c3cba/PSP2UPDAT.PUP
-3.67:http://dus01.psp2.update.playstation.net/update/psp2/image/2017_1120/rel_0ace865229ec4c3f6fdf310ee083b11e/PSP2UPDAT.PUP
+3.67:http://djp01.psp2.update.playstation.net/update/psp2/image/2017_1120/rel_0ace865229ec4c3f6fdf310ee083b11e/PSP2UPDAT.PUP
 3.68:http://djp01.psp2.update.playstation.net/update/psp2/image/2018_0319/rel_fdc6f6bb6eed9fd82f7c4bc7414eaf4c/PSP2UPDAT.PUP
 3.69:http://djp01.psp2.update.playstation.net/update/psp2/image/2018_0820/rel_03448696e4e7f31e47c60f9b77fe632a/PSP2UPDAT.PUP
